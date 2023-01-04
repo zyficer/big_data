@@ -1,0 +1,4 @@
+cn\hadoop\act\Map.class
+cn\hadoop\act\Reduce.class
+cn\hadoop\act\TaskMain.class
+cn\hadoop\act\Temperature.class

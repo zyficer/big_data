@@ -1,0 +1,4 @@
+cn\hadoop\mon\Map.class
+cn\hadoop\mon\Temperature.class
+cn\hadoop\mon\Reduce.class
+cn\hadoop\mon\TaskMain.class
